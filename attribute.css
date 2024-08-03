@@ -1,0 +1,49 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-size: cover;
+}
+#home{
+    color: aqua;
+    text-align: center;
+    font-size: x-large
+}
+header{
+    color: black;
+    text-align: center;
+    padding: 2cap;
+    font-size: xx-large
+}
+#skills{
+    color: brown;
+    float: right;
+    text-align:center;
+    font-size: x-large;
+
+}
+#about{
+    color: brown;
+    float: left;
+    font-size: x-large;
+}
+#contact{
+    color: brown;
+    float: left;
+    text-align: left;
+    font-size: x-large;
+}
+.abt{
+    color: black;
+}
+.cnt{
+    color: black;
+}
+.skl{
+    color: black;
+}
+nav{
+    background-color: rgb(188, 230, 230);
+
+}
+nav a{
+    padding: 14px 20px;
+}
